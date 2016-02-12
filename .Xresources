@@ -22,9 +22,9 @@ URxvt*color3:       [90]#e99d2a
 URxvt*color11:      [90]#d0d150
 URxvt*color4:       [90]#5a86ad
 URxvt*color12:      [90]#b8d3ed
-URxvt*color5:       [80]#ac80a6
-URxvt*color13:      [80]#d19ecb
-URxvt*color6:       [80]#74a6ad
-URxvt*color14:      [80]#93cfd7
-URxvt*color7:       [80]#e0dbb7
-URxvt*color15:      [80]#fff9d5
+URxvt*color5:       [90]#ac80a6
+URxvt*color13:      [90]#d19ecb
+URxvt*color6:       [90]#74a6ad
+URxvt*color14:      [90]#93cfd7
+URxvt*color7:       [90]#e0dbb7
+URxvt*color15:      [90]#fff9d5
