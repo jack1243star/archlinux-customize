@@ -1,3 +1,4 @@
 URxvt.depth: 32
 URxvt*background: rgba:0000/0000/0000/cccc
 URxvt*foreground: rgba:ffff/ffff/ffff/cccc
+URxvt.scrollBar: false
